@@ -5,16 +5,8 @@
         <description><![CDATA[Computationally Mathemusical.]]></description>
         <link>http://technoboy10.github.io</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Jun 2014 17:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2014 17:19:37 GMT</lastBuildDate>
         <author><![CDATA[Technoboy10]]></author>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[asdf]]></description>
-            <link>http://technoboy10.github.io/testpost.md</link>
-            <guid isPermaLink="true">http://technoboy10.github.io/testpost.md</guid>
-            <dc:creator><![CDATA[Technoboy10]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2014 06:00:00 GMT</pubDate>
-        </item>
     </channel>
 </rss>

@@ -11,7 +11,7 @@ body {
   height: 30px;
 }
 
-p {
+.description {
   text-indent: 20px;
 }
 

@@ -10,14 +10,5 @@
         "postpage": "post.html",
         "home": "home.html"
     },
-    "posts": [
-        {
-            "title": "Hello World",
-            "author": "Technoboy10",
-            "description": "asdf",
-            "file": "testpost.md",
-            "date": "6/10/14",
-            "markdown": true
-        }
-    ]
+    "posts": []
 }
