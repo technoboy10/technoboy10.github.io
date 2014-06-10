@@ -318,6 +318,10 @@ input[type=submit]:hover {
   font-size: 12px;
 }
 
+#rightbox {
+    float: right;
+}
+
 .identicon {
   margin-right: 10px;
   background-color: #eee;
