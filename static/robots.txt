@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /create
+Disallow: /deletepost
+Disallow: /deletecomment
+Disallow: /comment
+Disallow: /new

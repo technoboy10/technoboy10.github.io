@@ -1,9 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,700);
 
+
 body {
   font-family: "Open Sans", "Helvetica", Arial sans-serif;
   font-weight: 100;
-  background-color: white;
+  background-image: url("background.jpg");
   margin: 0;
   padding: 0;
   color: black;
@@ -51,7 +52,7 @@ a:active {
 }
 
 a:visited {
-  color: gray;
+  color: #559;
 }
 
 a:visited:hover {
@@ -64,29 +65,31 @@ strong.visitedposts a {
 
 #header {
   padding: 10px;
-  background-image: -webkit-gradient(linear, top left, bottom left, from(#f9f9f9), to(#f3f3f3));
+  background-color: #CFD0D5;
+  /*background-image: -webkit-gradient(linear, top left, bottom left, from(#f9f9f9), to(#f3f3f3));
   background-image: -webkit-linear-gradient(top, #f9f9f9, #f3f3f3);
   background-image: linear-gradient(top, #f9f9f9, #f3f3f3);
-  -webkit-box-shadow: 0px 2px 5px #ddd;
-  box-shadow: 0px 2px 5px #ddd;
+  -webkit-box-shadow: 0px 2px 5px #CFD0D5;
+  box-shadow: 0px 2px 5px #CFD0D5;*/
+  border-bottom: 1px solid silver;
   overflow: hidden;
 }
 
 #header h1 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Ubuntu", Helvetica, Arial, sans-serif;
   font-weight: 100;
   -webkit-transition: text-shadow 0.2s;
   transition: text-shadow 0.2s;
   text-shadow: none;
   letter-spacing: 3px;
   word-spacing: 2px;
-  display: inline-block;
+  display: block;
   float: left;
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 26px;
-  height: 30px;
+  font-size: 19px;
+  height: 19px;
   white-space: nowrap;
 }
 
@@ -98,15 +101,16 @@ strong.visitedposts a {
 #header h1:hover {
   -webkit-transition: text-shadow 0.2s ease-in-out;
   transition: text-shadow 0.2s ease-in-out;
-  text-shadow: 0 0 5px #F66;
+  text-shadow: 0 0 5px #0D8CB0;
   cursor: pointer;
 }
 
-#rightbox {
-  line-height: 30px;
+#header #loginbox {
+  display: table-cell;
+  font-size: 15px;
+  line-height: 19px;
   float: right;
-  height: 30px;
-  margin-right: 10px;
+  height: 19px;
 }
 
 h1,
@@ -148,14 +152,12 @@ h4 {
   -margin-left: 10px;
   -margin-right: 10px;
   padding: 30px;
-  width: 100%;
-  max-width: 30em;
+  max-width: 35em;
+  /*min-width: 250px;*/
   margin-left: auto;
   margin-right: auto;
-}
-
-#postlist p {
-    margin-bottom: 50px;
+  background-color: white;
+  opacity: 0.8;
 }
 
 #pagesbox {
@@ -165,30 +167,43 @@ h4 {
 #whoami {
   padding: 30px;
   margin-top: 10px;
+  border-top: 1px solid silver;
+  border-bottom: 1px solid silver;
   -moz-column-count: 2;
   -webkit-column-count: 2;
   column-count: 2;
-  width: 100%;
-  max-width: 30em;
+  width: 80%;
+  /*min-width: 300px;*/
   margin-left: auto;
   margin-right: auto;
   font-size: 14px;
   color: gray;
-  word-wrap: break-word;
 }
 
 #whoami h2 {
   font-size: 16px;
 }
 
+.home-info {
+  display: inline-block;
+}
+
 .dropcap:first-letter {
   font-size: 30px;
-  font-family: "Didot", "Baskerville", "Garamond", serif;
+  font-family: "Baskerville", "Baskerville", "Garamond", serif;
   color: #666;
 }
 
 strong a {
   color: black;
+}
+
+.comment {
+  margin-bottom: 30px;
+}
+
+#comments {
+  border-top: 1px solid silver;
 }
 
 * {
@@ -222,6 +237,107 @@ input[type=text]:focus {
   outline: none;
   -webkit-box-shadow: 0 0 4px lightblue;
   box-shadow: 0 0 4px lightblue;
+}
+
+a.actionbutton {
+  white-space: nowrap;
+  display: inline;
+  margin: 5px;
+  -webkit-transition: -webkit-box-shadow 0.2s;
+  transition: box-shadow 0.2s;
+  background-color: #FFF;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 10px;
+  border-style: none;
+  -webkit-box-shadow: 0 0 2px black;
+  box-shadow: 0 0 2px black;
+  cursor: pointer;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 100;
+  text-decoration: none;
+  color: black;
+  background-image: -webkit-gradient(linear, top left, bottom left, from(rgba(255, 255, 255, 0.1)), to(rgba(0, 0, 0, 0.1)));
+  background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+  background-image: linear-gradient(top, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+}
+
+a.actionbutton:hover {
+  -webkit-transition: -webkit-box-shadow 0.2s;
+  transition: box-shadow 0.2s;
+  -webkit-box-shadow: 0 0 4px black;
+  box-shadow: 0 0 4px black;
+  cursor: pointer;
+  color: #77A;
+}
+
+a.actionbutton:active {
+  background-color: #EDC;
+}
+
+a.actionbutton.destructive {
+  background-color: #E8A5B0 !important;
+}
+
+input[type=submit] {
+  -webkit-appearance: none;
+  appearance: none;
+  -webkit-transition: -webkit-box-shadow 0.2s;
+  transition: box-shadow 0.2s;
+  background-color: #bcefb6;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  -webkit-box-shadow: 0 0 0px #CCC;
+  box-shadow: 0 0 0px #CCC;
+  cursor: pointer;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 100;
+  background-image: -webkit-gradient(linear, top left, bottom left, from(rgba(255, 255, 255, 0.1)), to(rgba(0, 0, 0, 0.1)));
+  background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+  background-image: linear-gradient(top, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+}
+
+input[type=submit]:hover {
+  -webkit-transition: -webkit-box-shadow 0.2s;
+  transition: box-shadow 0.2s;
+  -webkit-box-shadow: 0 0 5px #CCC;
+  box-shadow: 0 0 5px #CCC;
+}
+
+#charcounter {
+  padding-bottom: 5px;
+  font-size: 12px;
+}
+
+.identicon {
+  margin-right: 10px;
+  background-color: #eee;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: default;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.identicon-cell {
+  width: 20%;
+  height: 20%;
+  float: left;
 }
 
 blockquote {
