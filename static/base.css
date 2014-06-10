@@ -169,10 +169,9 @@ h4 {
   margin-top: 10px;
   border-top: 1px solid silver;
   border-bottom: 1px solid silver;
-  text-align: justify;
-  -moz-column-count: 2;
-  -webkit-column-count: 2;
-  column-count: 2;
+  -moz-column-count: 1;
+  -webkit-column-count: 1;
+  column-count: 1;
   width: 80%;
   /*min-width: 300px;*/
   margin-left: 20px;
