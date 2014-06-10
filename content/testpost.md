@@ -1,4 +1,4 @@
-This is so exciting!
+Hello World
 --------------------
 
-I love Markdown. It's *so* cool.
+This is a test post with _markdown_. This is *so cool*!.
