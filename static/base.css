@@ -166,7 +166,6 @@ h4 {
 
 #whoami {
   padding: 30px;
-  white-space:nowrap;
   margin-top: 10px;
   border-top: 1px solid silver;
   border-bottom: 1px solid silver;
@@ -175,8 +174,8 @@ h4 {
   column-count: 2;
   width: 80%;
   /*min-width: 300px;*/
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 20px;
+  margin-right: 20px;
   font-size: 14px;
   color: gray;
 }
