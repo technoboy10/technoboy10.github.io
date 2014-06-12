@@ -107,7 +107,18 @@ strong.visitedposts a {
 }
 
 #feedicon {
+    -webkit-transition: text-shadow 0.2s;
+    transition: text-shadow 0.2s;
+    text-shadow: none;
     vertical-align: middle;
+
+}
+
+#feedicon:hover {
+    -webkit-transition: text-shadow 0.2s ease-in-out;
+    transition: text-shadow 0.2s ease-in-out;
+    text-shadow: 0 0 5px #F39C12;
+    cursor: pointer;
 }
 
 h1,
