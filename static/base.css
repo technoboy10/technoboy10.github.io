@@ -103,6 +103,7 @@ strong.visitedposts a {
 #rightbox {
   line-height: 30px;
   /*float: right;*/
+  display: inline-block;
   height: 30px;
   margin-right: 10px;
 }
