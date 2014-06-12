@@ -67,6 +67,7 @@ strong.visitedposts a {
   background-color: #D0CDD5;
   border-bottom: 1px solid silver;
   overflow: hidden;
+  text-align: center;
 }
 
 #header h1 {
@@ -78,7 +79,7 @@ strong.visitedposts a {
   letter-spacing: 3px;
   word-spacing: 2px;
   display: inline-block;
-  float: left;
+  /*float: left;*/
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
@@ -101,25 +102,18 @@ strong.visitedposts a {
 
 #rightbox {
   line-height: 30px;
-  float: right;
+  /*float: right;*/
   height: 30px;
   margin-right: 10px;
 }
 
 #feedicon {
-    -webkit-transition: text-shadow 0.2s;
-    transition: text-shadow 0.2s;
-    text-shadow: none;
+    -webkit-transiti
     vertical-align: middle;
 
 }
 
-#feedicon:hover {
-    -webkit-transition: text-shadow 0.2s ease-in-out;
-    transition: text-shadow 0.2s ease-in-out;
-    text-shadow: 0 0 5px #F39C12;
-    cursor: pointer;
-}
+
 
 h1,
 h2,
