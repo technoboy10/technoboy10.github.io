@@ -67,6 +67,7 @@ strong.visitedposts a {
   background-color: #D0CDD5;
   border-bottom: 1px solid silver;
   overflow: hidden;
+  text-align: center;
 }
 
 #header h1 {
@@ -78,7 +79,7 @@ strong.visitedposts a {
   letter-spacing: 3px;
   word-spacing: 2px;
   display: inline-block;
-  float: left;
+  /*float: left;*/
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
@@ -100,10 +101,18 @@ strong.visitedposts a {
 }
 
 #rightbox {
-  float: right;
+  /*float: right;*/
+  display: inline-block;
   height: 30px;
   margin-right: 10px;
 }
+
+#feedicon {
+    vertical-align: text-bottom;
+
+}
+
+
 
 h1,
 h2,
