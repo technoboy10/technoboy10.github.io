@@ -70,7 +70,7 @@ strong.visitedposts a {
 }
 
 #header h1 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-weight: 100;
   -webkit-transition: text-shadow 0.2s;
   transition: text-shadow 0.2s;
@@ -95,7 +95,7 @@ strong.visitedposts a {
 #header h1:hover {
   -webkit-transition: text-shadow 0.2s ease-in-out;
   transition: text-shadow 0.2s ease-in-out;
-  text-shadow: 0 0 5px #F66;
+  text-shadow: 0 0 5px #0D8BC0;
   cursor: pointer;
 }
 
@@ -149,6 +149,8 @@ h4 {
   max-width: 30em;
   margin-left: auto;
   margin-right: auto;
+  background-color: white;
+  opacity: 0.8;
 }
 
 #postlist p {
@@ -169,9 +171,10 @@ h4 {
   max-width: 30em;
   margin-left: auto;
   margin-right: auto;
+  border-top: 1px solid silver;
+  border-bottom: 1px solid silver;
   font-size: 14px;
   color: gray;
-  word-wrap: break-word;
 }
 
 #whoami h2 {
