@@ -106,6 +106,10 @@ strong.visitedposts a {
   margin-right: 10px;
 }
 
+#feedicon {
+    vertical-align: middle;
+}
+
 h1,
 h2,
 h3,
