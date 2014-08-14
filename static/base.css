@@ -3,7 +3,7 @@
 body {
   font-family: "Open Sans", "Helvetica", Arial sans-serif;
   font-weight: 100;
-  background-image: url("background.jpg");
+  background-color: #3498db;
   margin: 0;
   padding: 0;
   color: black;
@@ -64,7 +64,7 @@ strong.visitedposts a {
 
 #header {
   padding: 10px;
-  background-color: #D0CDD5;
+  background-color: #ecf0f1;
   border-bottom: 1px solid silver;
   overflow: hidden;
   text-align: center;
@@ -157,8 +157,7 @@ h4 {
   max-width: 30em;
   margin-left: auto;
   margin-right: auto;
-  background-color: white;
-  opacity: 0.8;
+  background-color: #ecf0f1;
 }
 
 #postlist p {
