@@ -15,13 +15,13 @@ $.get( "http://scratch.mit.edu/users/" + user + "/followers/?page=1", loaded );
 
 function loaded( data ) {
 var $dom = $( data );
-var num = prompt('How many pages of followers?');
+//var num = prompt('How many pages of followers?');
 
 var $users = $dom.find('span.title').children();
 
 
 var $out = $('#result');
-for (var j=0; j<num+1; j++){
+//for (var j=0; j<num+1; j++){
 for (var i=0; i<$users.length; i++) {
 var user = $users[i].text.trim();
 $out.append( user+'<br>' );
@@ -31,7 +31,7 @@ $out.append( user+'<br>' );
 page++;
 $.get( "http://scratch.mit.edu/users/" + user + "/followers/?page="+page, loaded );
 };
-}
+
 
 </script>
 </head>
