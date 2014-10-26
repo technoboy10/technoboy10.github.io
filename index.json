@@ -1,7 +1,7 @@
 {
-    "title": "tekhne",
-    "author": "Technoboy10",
-    "description": "Computationally Mathemusical.",
+    "title": "byte",
+    "author": "technoboy10",
+    "description": "250 word snippets of my thoughts",
     "url": "http://technoboy10.tk",
     "templates": {
         "404": "404.html",

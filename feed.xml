@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[tekhne]]></title>
-        <description><![CDATA[Computationally Mathemusical.]]></description>
+        <title><![CDATA[byte]]></title>
+        <description><![CDATA[250 word snippets of my thoughts]]></description>
         <link>http://technoboy10.tk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Oct 2014 02:11:51 GMT</lastBuildDate>
-        <author><![CDATA[Technoboy10]]></author>
+        <lastBuildDate>Sun, 26 Oct 2014 14:49:39 GMT</lastBuildDate>
+        <author><![CDATA[technoboy10]]></author>
         <language><![CDATA[en]]></language>
     </channel>
 </rss>
