@@ -29,12 +29,10 @@ q:after {
 
 strong a {
   text-decoration: none;
-  color: #93a1a1;
   font-size: 1em;
 }
 
 strong a:visited {
-  color: #93a1a1;
 }
 
 strong a:hover {
