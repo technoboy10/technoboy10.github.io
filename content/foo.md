@@ -1,4 +1,4 @@
 test
 ====
 
-*test* (link test)[#] _whoa_
+*test* [This is a fabulous link](#) _whoa_
