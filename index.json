@@ -12,11 +12,11 @@
     },
     "posts": [
         {
-            "title": "test",
+            "title": "different test",
             "author": "test",
             "description": "testing style",
             "file": "foo.md",
-            "date": "1/1/1",
+            "date": "12/18/14",
             "markdown": true
         }
     ]
