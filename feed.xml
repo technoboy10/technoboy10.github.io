@@ -5,11 +5,11 @@
         <description><![CDATA[250 word snippets of my thoughts]]></description>
         <link>http://technoboy10.tk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Dec 2014 17:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2014 17:26:43 GMT</lastBuildDate>
         <author><![CDATA[technoboy10]]></author>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[test]]></title>
+            <title><![CDATA[different test]]></title>
             <description><![CDATA[testing style
 
 <h1 id="test">test</h1>
@@ -18,7 +18,7 @@
             <link>http://technoboy10.tk/foo.html</link>
             <guid isPermaLink="true">http://technoboy10.tk/foo.html</guid>
             <dc:creator><![CDATA[test]]></dc:creator>
-            <pubDate>Mon, 01 Jan 2001 07:00:00 GMT</pubDate>
+            <pubDate>Thu, 18 Dec 2014 07:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
