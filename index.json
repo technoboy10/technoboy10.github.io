@@ -10,5 +10,14 @@
         "postpage": "post.html",
         "home": "home.html"
     },
-    "posts": []
+    "posts": [
+        {
+            "title": "test",
+            "author": "test",
+            "description": "testing style",
+            "file": "foo.md",
+            "date": "1/1/1",
+            "markdown": true
+        }
+    ]
 }
