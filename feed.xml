@@ -5,19 +5,19 @@
         <description><![CDATA[250 word snippets of my thoughts]]></description>
         <link>http://technoboy10.tk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Dec 2014 17:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2014 17:40:09 GMT</lastBuildDate>
         <author><![CDATA[technoboy10]]></author>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[different test]]></title>
-            <description><![CDATA[testing style
+            <title><![CDATA[Testing all the time]]></title>
+            <description><![CDATA[Testing more stuff
 
 <h1 id="test">test</h1>
 <p><em>test</em> <a href="#">This is a fabulous link</a> <em>whoa</em></p>
 ]]></description>
-            <link>http://technoboy10.tk/foo.html</link>
-            <guid isPermaLink="true">http://technoboy10.tk/foo.html</guid>
-            <dc:creator><![CDATA[test]]></dc:creator>
+            <link>http://technoboy10.tk/test.html</link>
+            <guid isPermaLink="true">http://technoboy10.tk/test.html</guid>
+            <dc:creator><![CDATA[technoboy10]]></dc:creator>
             <pubDate>Thu, 18 Dec 2014 07:00:00 GMT</pubDate>
         </item>
     </channel>

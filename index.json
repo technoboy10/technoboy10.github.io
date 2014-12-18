@@ -12,10 +12,10 @@
     },
     "posts": [
         {
-            "title": "different test",
-            "author": "test",
-            "description": "testing style",
-            "file": "foo.md",
+            "title": "Testing all the time",
+            "author": "technoboy10",
+            "description": "Testing more stuff",
+            "file": "test.md",
             "date": "12/18/14",
             "markdown": true
         }

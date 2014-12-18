@@ -2,15 +2,20 @@
 <html>
     <head>
         <link rel="stylesheet" type="text/css" href="/static/base.css"/>
-        <title>byte</title>
-        <script src="static/cheet.js" charset="utf-8"></script>
-        <script src="static/main.js"  charset="utf-8"></script>
-        <meta name="description" content="Technoboy10's blog."/>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <link rel="stylesheet" type="text/css" href="/static/prism.css"/>
+        <title>Testing all the time | byte</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <script src="/static/prism.js"></script>
+        <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        <script>
+            MathJax.Hub.Config({
+                tex2jax: {inlineMath: [['($','$)']]}
+            });
+        </script>
     </head>
-
     <body>
+
         <div id="header">
     <h1>
         <a href="/">byte</a>
@@ -21,20 +26,19 @@
     <div class="clearer"></div>
 </div>
 <div id="content">
-        
 
-        <div id="whoami" class="centered">250 word snippets of my thoughts</div>
-
-        <div id="postlist" class="centered">
+        <div id="postcontent" class="language-bash centered">
+          <div id="postinfo">
+            <h2>Testing all the time</h2>
+            <h4>technoboy10 &middot; Thursday, December 18, 2014
+            </h4>
+          </div>
             <br/>
-
-                <strong class="postlinks" style="float:left;"><a href="test.html">Testing all the time</a> </strong>&nbsp;
-                <small style="float:right;">12&#x2F;18&#x2F;14</small>
-                <div class="clearer"></div>
-                <p>Testing more stuff</p>
+            <h1 id="test">test</h1>
+<p><em>test</em> <a href="#">This is a fabulous link</a> <em>whoa</em></p>
 
 
-            </div>
+        </div>
 <div id="footer">
     byte &middot; technoboy10 (2014)
     <br/>
@@ -50,7 +54,5 @@
     </script>
 </div>
 
-
-        </div>
     </body>
 </html>
