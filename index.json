@@ -10,14 +10,5 @@
         "postpage": "post.html",
         "home": "home.html"
     },
-    "posts": [
-        {
-            "title": "Testing all the time",
-            "author": "technoboy10",
-            "description": "Testing more stuff",
-            "file": "test.md",
-            "date": "12/18/14",
-            "markdown": true
-        }
-    ]
+    "posts": []
 }
