@@ -5,8 +5,27 @@
         <description><![CDATA[250 word snippets of my thoughts]]></description>
         <link>http://technoboy10.tk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Dec 2014 17:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2014 23:52:26 GMT</lastBuildDate>
         <author><![CDATA[technoboy10]]></author>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In English, Please]]></title>
+            <description><![CDATA[Why vanilla English is boring
+
+<p>  Coders and math geeks are often accused of “not talking in English”. We say things like</p>
+<p>“In electronic codebook mode, we can forge request headers and iteratively discover the first byte of the next block in linear time”,</p>
+<p>which clearly makes no effort to be understandable. But is this really only a problem with CS and math?</p>
+<p>  Gamers, for example, use their own version of English all the time.</p>
+<p>“I’ll use my Sneak skill on the Splintertusk, and finish it off with Cunning Attack!”</p>
+<p>So do musicians, writers, psychologists, dancers, even English majors (non-coordinate canonical clauses, anyone?).</p>
+<p>  The thing is, nobody really speaks English. Everyone has their own unique dialect with esoteric vocabulary, complicated syntax, or any other kind of additions to vanilla English.</p>
+<p>  And I think that’s part of what makes English interesting.</p>
+<p>(thanks to hardmath123 and my sister for the quotes)</p>
+]]></description>
+            <link>http://technoboy10.tk/english.html</link>
+            <guid isPermaLink="true">http://technoboy10.tk/english.html</guid>
+            <dc:creator><![CDATA[technoboy10]]></dc:creator>
+            <pubDate>Sat, 20 Dec 2014 07:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>

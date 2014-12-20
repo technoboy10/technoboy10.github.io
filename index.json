@@ -10,5 +10,14 @@
         "postpage": "post.html",
         "home": "home.html"
     },
-    "posts": []
+    "posts": [
+        {
+            "title": "In English, Please",
+            "author": "technoboy10",
+            "description": "Why vanilla English is boring",
+            "file": "english.md",
+            "date": "12/20/14",
+            "markdown": true
+        }
+    ]
 }
