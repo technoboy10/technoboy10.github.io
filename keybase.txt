@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/01
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://technoboy10.tk
+  * I am 01 (https://keybase.io/01) on keybase.
+  * I have a public key with fingerprint C470 9FDA BF12 419F 238C  22CF C17A 15AA F709 E259
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "c4709fdabf12419f238c22cfc17a15aaf709e259",
+            "host": "keybase.io",
+            "key_id": "c17a15aaf709e259",
+            "uid": "6943cbec6f24227c80d035c16ec5a200",
+            "username": "01"
+        },
+        "service": {
+            "hostname": "technoboy10.tk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1419225089,
+    "expire_in": 157680000,
+    "prev": "eb2fba81532717569bd79cf9cffceee5fe7aa06c857697733ea0e58a243367a5",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.6
+Comment: https://keybase.io/crypto
+
+yMHeAnicZVFPSBRRGJ/xT+iS0qHcJBB5hB3atpk3Ozsza2QXkwKRItJKXWbevNFB
+nVl3Z3fzzxJd8qCXrEjBREzF0MyiS2a1mQfDvbipl1KwEjTK6hAlGPVG7NTjweN7
+vz/f9+ObzkqlHHTW47Gbvejhfno2/iVMnbs9TLcAxVSbgK8F1OHtR9ONGhwMBHXD
+Aj6APAIjaaqsaCz0sJIGORFBiDTECjLLy7JGYAx5CbhArRmyFcRGkUPYrZvkjxR+
+XbV9/ueHtwGv5OGQgpFXgx4IBSQyKsPxiPVixMuQYWxiCAcNuQETNsOCmAuQOqIj
+bE9rN93BLIxqDVMxm1jGbdURXSBoWiYy6wlWa1kBny21mgI2N4oV/46LX9ENlWQm
+gggOhnTTAD6WMJGl27YsSQ0hz4iSC+DLAT2I/brN4AWvyJBjt8ERYokVqCmyyPIc
+FFiB90qKKkhII1dDGGNew4IsM14kEqUkCByHZQbzogw9HOcVZB7YuRoNE/g4MqZc
+QyxDeo0hW+EgBrGpeGUaRTuoXekp9tYoR+aef7u8MZRBDXcP5Pif7p1Xx/M8i9Wt
+n5yDFfStgZLs0+UV9T4Qmaa7wssPehzNOc/KWuJWXXrxEy72KEGvbzXG+jOMJd/x
+vvsLxc5rU1bvenIp/uFQyR+2bbOw9PvzueQb9vXuqvOrUcX9/kebezAtbYLqmlMq
+R84Wrwxc7KzSfi4cK1hJFLbLM8Pza9TQt7F4+/jiara2WHnHbMhPVsPr4kzHpYar
+uad6WidHSjNfbVzoSCZda2BqKx9tOfLPOIv2jR74aqXmxq4UJPrnP0ePbtzNi6jd
+fZ2HxV+bJ1OyJg/qs0c6ChKZs9Gy5vKhF84My1/0Nk6vwo/3Xp6Y+P1udPkvLOwR
+xw==
+=otQ6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/01
+
+==================================================================
