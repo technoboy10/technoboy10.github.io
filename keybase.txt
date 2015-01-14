@@ -6,16 +6,17 @@ I hereby claim:
 
   * I am an admin of http://technoboy10.tk
   * I am 01 (https://keybase.io/01) on keybase.
-  * I have a public key with fingerprint C470 9FDA BF12 419F 238C  22CF C17A 15AA F709 E259
+  * I have a public key with fingerprint 15A3 A9A0 8479 4A1A D8E8  B14D A9CF A7B0 AD1A 9D61
 
 To claim this, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "c4709fdabf12419f238c22cfc17a15aaf709e259",
+            "fingerprint": "15a3a9a084794a1ad8e8b14da9cfa7b0ad1a9d61",
             "host": "keybase.io",
-            "key_id": "c17a15aaf709e259",
+            "key_id": "a9cfa7b0ad1a9d61",
+            "kid": "0101fcc78e67950827e33176495d278d8a6e165e648d250b0af09d8acb6971026cfd0a",
             "uid": "6943cbec6f24227c80d035c16ec5a200",
             "username": "01"
         },
@@ -26,35 +27,36 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1419225089,
+    "ctime": 1421265234,
     "expire_in": 157680000,
-    "prev": "eb2fba81532717569bd79cf9cffceee5fe7aa06c857697733ea0e58a243367a5",
-    "seqno": 3,
+    "prev": "25436a325e5068326fb62f7a5f496d1affcbad7be47e46e3fe8aa64f9078b333",
+    "seqno": 12,
     "tag": "signature"
 }
 
 with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v1.1.6
+Version: Keybase OpenPGP v2.0.1
 Comment: https://keybase.io/crypto
 
-yMHeAnicZVFPSBRRGJ/xT+iS0qHcJBB5hB3atpk3Ozsza2QXkwKRItJKXWbevNFB
-nVl3Z3fzzxJd8qCXrEjBREzF0MyiS2a1mQfDvbipl1KwEjTK6hAlGPVG7NTjweN7
-vz/f9+ObzkqlHHTW47Gbvejhfno2/iVMnbs9TLcAxVSbgK8F1OHtR9ONGhwMBHXD
-Aj6APAIjaaqsaCz0sJIGORFBiDTECjLLy7JGYAx5CbhArRmyFcRGkUPYrZvkjxR+
-XbV9/ueHtwGv5OGQgpFXgx4IBSQyKsPxiPVixMuQYWxiCAcNuQETNsOCmAuQOqIj
-bE9rN93BLIxqDVMxm1jGbdURXSBoWiYy6wlWa1kBny21mgI2N4oV/46LX9ENlWQm
-gggOhnTTAD6WMJGl27YsSQ0hz4iSC+DLAT2I/brN4AWvyJBjt8ERYokVqCmyyPIc
-FFiB90qKKkhII1dDGGNew4IsM14kEqUkCByHZQbzogw9HOcVZB7YuRoNE/g4MqZc
-QyxDeo0hW+EgBrGpeGUaRTuoXekp9tYoR+aef7u8MZRBDXcP5Pif7p1Xx/M8i9Wt
-n5yDFfStgZLs0+UV9T4Qmaa7wssPehzNOc/KWuJWXXrxEy72KEGvbzXG+jOMJd/x
-vvsLxc5rU1bvenIp/uFQyR+2bbOw9PvzueQb9vXuqvOrUcX9/kebezAtbYLqmlMq
-R84Wrwxc7KzSfi4cK1hJFLbLM8Pza9TQt7F4+/jiara2WHnHbMhPVsPr4kzHpYar
-uad6WidHSjNfbVzoSCZda2BqKx9tOfLPOIv2jR74aqXmxq4UJPrnP0ePbtzNi6jd
-fZ2HxV+bJ1OyJg/qs0c6ChKZs9Gy5vKhF84My1/0Nk6vwo/3Xp6Y+P1udPkvLOwR
-xw==
-=otQ6
+yMIeAnicbZJdbAxRFMd3lZb1EYmQoEQnqaC72ztf985si4eSaKQ+uuvBV9edO3d2
+xzKzdqer1SASHwlWIkI8aEobD3jhodJW0JZK2kYrpQ80FR8RaSNCBYkg7mx4c19u
+zjn//+/cc3Mezszz+LxL+y713rhWeNLb37Wy1hO53VvdwGm2Xs+FGrgEzV2GacVo
+KpkyLYcLcbyMRaxioEhIlTCPdYUqGi/pWCUGRhrAOo9VHfKcn4vbadfBMBpO06Bp
+sxwLoqbOsv/RJ3IFwAPeIAQpFCJVBoqAqCjyCEqqrAtI0RUMKQ9lCiVFF2TACAZQ
+WZZoUEU8ECAxdIAZrjaHg6okEo0SaAiSICCiAB2IMuEhJTIWAHCFaZqy8F6aa84d
+9HMszpiEusO7M/ytOZTELVuz63kQdBLMl0zZjk3sPawWd5xkyLU69UlXu59q0b+U
+qGZaOvtCZsjQVNq0LS7EMyVxTBfLSwIvQFkQJT9H65JmikZNVyEjqAB23DY0w5CC
+LIkQi4JMZQAVUYCGBgUDYdmQVMg+0TCIhnWkUQlRCVLRoArGUDJUgBRNFEXOnWuf
+ZTO2wN6JY4yZNmMWdmpTlDvY3bljssfr8+RPmeRugcc3bfa/3QB5Bb/9qaqSsl/e
+WVfC8ULfxt9bV58ZUvYPk/CTwNjxxjk3z/4YvRM7tGF6wRRrfZFTfSvwbWZZW1v3
+1c7hXSXvxk/2RNCC5k3B7nOJAFhI75rBo9caBra3yiueJ8d/Lat6u863LfngZ3hl
+dmLu0dPXT+SXN1Wu7k9LH8H9Bzda6kY3voqvLfCjniHc3Ne6rKY6+al4rzRp4HvL
+1TeDXw4fmxfOfJ1fwU0MdoQ/o5Ilr8fan6370DjSuqr8srF70Rt186mu4ua+I/e2
+1IyuiXx+VRdon7r4fO+B+yUX3184e6v05cNHpT/9sZGiWebOnd6IXLE8W/mihzgz
+sk+b2ju0b4P+yOPsH57aJs4=
+=AN1z
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
