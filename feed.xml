@@ -5,9 +5,141 @@
         <description><![CDATA[250 word snippets of my thoughts]]></description>
         <link>http://technoboy10.tk</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Dec 2014 23:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2015 02:27:51 GMT</lastBuildDate>
         <author><![CDATA[technoboy10]]></author>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Making vs Coding]]></title>
+            <description><![CDATA[Why I don't actually like programming
+
+<blockquote>
+<p>The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.</p>
+</blockquote>
+<p>I’ve been a part of the Scratch community for about 8 years now (yes, really). During this time, I’ve noticed a pattern that seems to apply to a lot of people:</p>
+<p>join Scratch =&gt; create projects =&gt; discover text-based programming =&gt; quit Scratch because of “real programming”</p>
+<p>Note the scare quotes around “real programming”. Generally, a “real” programming language is text-based (C, Python, etc.) and apparently qualifies as real because it’s used by well-known developers for something.</p>
+<p>Obviously I disagree with disqualifying Scratch as a real programming language.</p>
+<p>See, my problem is that I don’t like coding. I like <em>making</em>. Making is the translation of an idea into an experience that can be shared with others, regardless of medium. Creating a steampunk robot driven by analog parts? That’s making. Coding an online game set on post-apocalyptic Mars? That’s making too. Writing an experimental short story? Making. Learning to use C? Not making.</p>
+<p>When people say that they’ve learned to code, they’ve essentially learned how to read and write the language of computers. Learning how to <em>make</em> is a long process which isn’t quantifiable and doesn’t have well-defined borders. Coding is to reading and vocabulary as making is to creating a novel.</p>
+<p>Can you see why I count Scratch as a real programming language yet? If not, here’s a hint: it’s simple.  That’s not to say that I can’t use other languages because they’re too hard (they’re all mostly the same eventually), but rather that Scratch provides an environment that lets me go from idea to reality quickly. That’s also why I like Python - it’s simple, fun, and has an insanely huge amount of libraries that I can use to create new experiences. </p>
+<p>So what programming languages <em>should</em> you learn? I can’t give you a definitive answer for that, and neither can anyone else. The right programming language for you should be the one that lubricates the process from thought to reality the best. Whether that’s Java, Scratch, Python, Lua, JavaScript, or anything else, that’s up to you. So what are you waiting for? Get out there and make something.</p>
+<p><em>quote from Bret Victor’s “Kill Math”</em></p>
+]]></description>
+            <link>http://technoboy10.tk/make.html</link>
+            <guid isPermaLink="true">http://technoboy10.tk/make.html</guid>
+            <dc:creator><![CDATA[technoboy10]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making vs Coding]]></title>
+            <description><![CDATA[why I don't actually like programming
+
+<blockquote>
+<p>The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.</p>
+</blockquote>
+<p>I’ve been a part of the Scratch community for about 8 years now (yes, really). During this time, I’ve noticed a pattern that seems to apply to a lot of people:</p>
+<p>join Scratch =&gt; create projects =&gt; discover text-based programming =&gt; quit Scratch because of “real programming”</p>
+<p>Note the scare quotes around “real programming”. Generally, a “real” programming language is text-based (C, Python, etc.) and apparently qualifies as real because it’s used by well-known developers for something.</p>
+<p>Obviously I disagree with disqualifying Scratch as a real programming language.</p>
+<p>See, my problem is that I don’t like coding. I like <em>making</em>. Making is the translation of an idea into an experience that can be shared with others, regardless of medium. Creating a steampunk robot driven by analog parts? That’s making. Coding an online game set on post-apocalyptic Mars? That’s making too. Writing an experimental short story? Making. Learning to use C? Not making.</p>
+<p>When people say that they’ve learned to code, they’ve essentially learned how to read and write the language of computers. Learning how to <em>make</em> is a long process which isn’t quantifiable and doesn’t have well-defined borders. Coding is to reading and vocabulary as making is to creating a novel.</p>
+<p>Can you see why I count Scratch as a real programming language yet? If not, here’s a hint: it’s simple.  That’s not to say that I can’t use other languages because they’re too hard (they’re all mostly the same eventually), but rather that Scratch provides an environment that lets me go from idea to reality quickly. That’s also why I like Python - it’s simple, fun, and has an insanely huge amount of libraries that I can use to create new experiences. </p>
+<p>So what programming languages <em>should</em> you learn? I can’t give you a definitive answer for that, and neither can anyone else. The right programming language for you should be the one that lubricates the process from thought to reality the best. Whether that’s Java, Scratch, Python, Lua, JavaScript, or anything else, that’s up to you. So what are you waiting for? Get out there and make something.</p>
+<p><em>quote from Bret Victor’s “Kill Math”</em></p>
+]]></description>
+            <link>http://technoboy10.tk/make.html</link>
+            <guid isPermaLink="true">http://technoboy10.tk/make.html</guid>
+            <dc:creator><![CDATA[technoboy10]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making vs Coding]]></title>
+            <description><![CDATA[why I don't actually like programming
+
+<blockquote>
+<p>The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.</p>
+</blockquote>
+<p>I’ve been a part of the Scratch community for about 8 years now (yes, really). During this time, I’ve noticed a pattern that seems to apply to a lot of people:</p>
+<p>join Scratch =&gt; create projects =&gt; discover text-based programming =&gt; quit Scratch because of “real programming”</p>
+<p>Note the scare quotes around “real programming”. Generally, a “real” programming language is text-based (C, Python, etc.) and apparently qualifies as real because it’s used by well-known developers for something.</p>
+<p>Obviously I disagree with disqualifying Scratch as a real programming language.</p>
+<p>See, my problem is that I don’t like coding. I like <em>making</em>. Making is the translation of an idea into an experience that can be shared with others, regardless of medium. Creating a steampunk robot driven by analog parts? That’s making. Coding an online game set on post-apocalyptic Mars? That’s making too. Writing an experimental short story? Making. Learning to use C? Not making.</p>
+<p>When people say that they’ve learned to code, they’ve essentially learned how to read and write the language of computers. Learning how to <em>make</em> is a long process which isn’t quantifiable and doesn’t have well-defined borders. Coding is to reading and vocabulary as making is to creating a novel.</p>
+<p>Can you see why I count Scratch as a real programming language yet? If not, here’s a hint: it’s simple.  That’s not to say that I can’t use other languages because they’re too hard (they’re all mostly the same eventually), but rather that Scratch provides an environment that lets me go from idea to reality quickly. That’s also why I like Python - it’s simple, fun, and has an insanely huge amount of libraries that I can use to create new experiences. </p>
+<p>So what programming languages <em>should</em> you learn? I can’t give you a definitive answer for that, and neither can anyone else. The right programming language for you should be the one that lubricates the process from thought to reality the best. Whether that’s Java, Scratch, Python, Lua, JavaScript, or anything else, that’s up to you. So what are you waiting for? Get out there and make something.</p>
+<p><em>quote from Bret Victor’s “Kill Math”</em></p>
+]]></description>
+            <link>http://technoboy10.tk/make.html</link>
+            <guid isPermaLink="true">http://technoboy10.tk/make.html</guid>
+            <dc:creator><![CDATA[technoboy10]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[asdf]]></title>
+            <description><![CDATA[asdf
+
+<blockquote>
+<p>The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.</p>
+</blockquote>
+<p>I’ve been a part of the Scratch community for about 8 years now (yes, really). During this time, I’ve noticed a pattern that seems to apply to a lot of people:</p>
+<p>join Scratch =&gt; create projects =&gt; discover text-based programming =&gt; quit Scratch because of “real programming”</p>
+<p>Note the scare quotes around “real programming”. Generally, a “real” programming language is text-based (C, Python, etc.) and apparently qualifies as real because it’s used by well-known developers for something.</p>
+<p>Obviously I disagree with disqualifying Scratch as a real programming language.</p>
+<p>See, my problem is that I don’t like coding. I like <em>making</em>. Making is the translation of an idea into an experience that can be shared with others, regardless of medium. Creating a steampunk robot driven by analog parts? That’s making. Coding an online game set on post-apocalyptic Mars? That’s making too. Writing an experimental short story? Making. Learning to use C? Not making.</p>
+<p>When people say that they’ve learned to code, they’ve essentially learned how to read and write the language of computers. Learning how to <em>make</em> is a long process which isn’t quantifiable and doesn’t have well-defined borders. Coding is to reading and vocabulary as making is to creating a novel.</p>
+<p>Can you see why I count Scratch as a real programming language yet? If not, here’s a hint: it’s simple.  That’s not to say that I can’t use other languages because they’re too hard (they’re all mostly the same eventually), but rather that Scratch provides an environment that lets me go from idea to reality quickly. That’s also why I like Python - it’s simple, fun, and has an insanely huge amount of libraries that I can use to create new experiences. </p>
+<p>So what programming languages <em>should</em> you learn? I can’t give you a definitive answer for that, and neither can anyone else. The right programming language for you should be the one that lubricates the process from thought to reality the best. Whether that’s Java, Scratch, Python, Lua, JavaScript, or anything else, that’s up to you. So what are you waiting for? Get out there and make something.</p>
+<p><em>quote from Bret Victor’s “Kill Math”</em></p>
+]]></description>
+            <link>http://technoboy10.tk/make.html</link>
+            <guid isPermaLink="true">http://technoboy10.tk/make.html</guid>
+            <dc:creator><![CDATA[asdf]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making vs Coding]]></title>
+            <description><![CDATA[why I don't actually like programming
+
+<blockquote>
+<p>The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.</p>
+</blockquote>
+<p>I’ve been a part of the Scratch community for about 8 years now (yes, really). During this time, I’ve noticed a pattern that seems to apply to a lot of people:</p>
+<p>join Scratch =&gt; create projects =&gt; discover text-based programming =&gt; quit Scratch because of “real programming”</p>
+<p>Note the scare quotes around “real programming”. Generally, a “real” programming language is text-based (C, Python, etc.) and apparently qualifies as real because it’s used by well-known developers for something.</p>
+<p>Obviously I disagree with disqualifying Scratch as a real programming language.</p>
+<p>See, my problem is that I don’t like coding. I like <em>making</em>. Making is the translation of an idea into an experience that can be shared with others, regardless of medium. Creating a steampunk robot driven by analog parts? That’s making. Coding an online game set on post-apocalyptic Mars? That’s making too. Writing an experimental short story? Making. Learning to use C? Not making.</p>
+<p>When people say that they’ve learned to code, they’ve essentially learned how to read and write the language of computers. Learning how to <em>make</em> is a long process which isn’t quantifiable and doesn’t have well-defined borders. Coding is to reading and vocabulary as making is to creating a novel.</p>
+<p>Can you see why I count Scratch as a real programming language yet? If not, here’s a hint: it’s simple.  That’s not to say that I can’t use other languages because they’re too hard (they’re all mostly the same eventually), but rather that Scratch provides an environment that lets me go from idea to reality quickly. That’s also why I like Python - it’s simple, fun, and has an insanely huge amount of libraries that I can use to create new experiences. </p>
+<p>So what programming languages <em>should</em> you learn? I can’t give you a definitive answer for that, and neither can anyone else. The right programming language for you should be the one that lubricates the process from thought to reality the best. Whether that’s Java, Scratch, Python, Lua, JavaScript, or anything else, that’s up to you. So what are you waiting for? Get out there and make something.</p>
+<p><em>quote from Bret Victor’s “Kill Math”</em></p>
+]]></description>
+            <link>http://technoboy10.tk/make.html</link>
+            <guid isPermaLink="true">http://technoboy10.tk/make.html</guid>
+            <dc:creator><![CDATA[technoboy10]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2015 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making vs Coding]]></title>
+            <description><![CDATA[why I don't actually like coding
+
+<blockquote>
+<p>The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.</p>
+</blockquote>
+<p>I’ve been a part of the Scratch community for about 8 years now (yes, really). During this time, I’ve noticed a pattern that seems to apply to a lot of people:</p>
+<p>join Scratch =&gt; create projects =&gt; discover text-based programming =&gt; quit Scratch because of “real programming”</p>
+<p>Note the scare quotes around “real programming”. Generally, a “real” programming language is text-based (C, Python, etc.) and apparently qualifies as real because it’s used by well-known developers for something.</p>
+<p>Obviously I disagree with disqualifying Scratch as a real programming language.</p>
+<p>See, my problem is that I don’t like coding. I like <em>making</em>. Making is the translation of an idea into an experience that can be shared with others, regardless of medium. Creating a steampunk robot driven by analog parts? That’s making. Coding an online game set on post-apocalyptic Mars? That’s making too. Writing an experimental short story? Making. Learning to use C? Not making.</p>
+<p>When people say that they’ve learned to code, they’ve essentially learned how to read and write the language of computers. Learning how to <em>make</em> is a long process which isn’t quantifiable and doesn’t have well-defined borders. Coding is to reading and vocabulary as making is to creating a novel.</p>
+<p>Can you see why I count Scratch as a real programming language yet? If not, here’s a hint: it’s simple.  That’s not to say that I can’t use other languages because they’re too hard (they’re all mostly the same eventually), but rather that Scratch provides an environment that lets me go from idea to reality quickly. That’s also why I like Python - it’s simple, fun, and has an insanely huge amount of libraries that I can use to create new experiences. </p>
+<p>So what programming languages <em>should</em> you learn? I can’t give you a definitive answer for that, and neither can anyone else. The right programming language for you should be the one that lubricates the process from thought to reality the best. Whether that’s Java, Scratch, Python, Lua, JavaScript, or anything else, that’s up to you. So what are you waiting for? Get out there and make something.</p>
+<p><em>quote from Bret Victor’s “Kill Math”</em></p>
+]]></description>
+            <link>http://technoboy10.tk/make.html</link>
+            <guid isPermaLink="true">http://technoboy10.tk/make.html</guid>
+            <dc:creator><![CDATA[technoboy10]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2015 06:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In English, Please]]></title>
             <description><![CDATA[Why vanilla English is boring
