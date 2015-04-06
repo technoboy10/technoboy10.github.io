@@ -1,13 +1,32 @@
-@import url(http://fonts.googleapis.com/css?family=Fira+Mono:400,700|Open+Sans);
 
-body {
-  font-family: "Fira Mono Bold", monospace;
-  background-color: #0d1317;
+@font-face {
+  font-family: 'Bookerly';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bookerly-Regular'), format('ttf');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Bookerly';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Bookerly-Italic'), format('ttf');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+.standard {
+
+  font-family: "Bookerly";
+  background-color: white;
   margin: 0;
   padding: 0;
   color: black;
   height: 30px;
   font-size: 18px;
+  margin: auto;
+  max-width: 40em;
 }
 
 p {
@@ -65,7 +84,7 @@ strong.visitedposts a {
 }
 
 #header {
-  padding: 10px;
+  padding-top: 5px;
   overflow: hidden;
   border-bottom-style: solid;
   border-bottom-width: 1px;
@@ -80,8 +99,8 @@ strong.visitedposts a {
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 26px;
-  height: 30px;
+  font-size: 20px;
+  height: 25px;
   white-space: nowrap;
 }
 
@@ -105,12 +124,13 @@ strong.visitedposts a {
 }
 
 #rightbox {
-  line-height: 30px;
+  line-height: 20px;
   float: right;
   margin-right: 10px;
 }
 
 #rightbox a {
+  font-family: "Fira Mono Bold", monospace;
   text-decoration: underline;
   color: #cb4b16;
 }
@@ -143,7 +163,7 @@ h3 {
 }
 #content {
   margin: auto;
-  max-width: 35em;
+  max-width: 40em;
   color: #93a1a1;
   
   
@@ -206,11 +226,12 @@ h3 {
 }
 
 #postcontent {
+  color: #555;
   text-align: justify;
 }
 
 #postcontent > p:first-of-type:first-letter, .dropcap:first-letter {
-  font-size: 2.1em;
+  font-size: 1.5em;
 }
 
 #postinfo {
