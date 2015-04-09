@@ -26,6 +26,9 @@
   max-width: 40em;
 }
 
+#layout {
+  font-family: monospace;
+}
 p {
   text-indent: 20px;
   line-height: 2em;
@@ -81,6 +84,7 @@ strong.visitedposts a {
 }
 
 #header {
+  padding-left: 10px;
   padding-top: 5px;
   overflow: hidden;
   border-bottom-style: solid;
@@ -184,7 +188,7 @@ h3 {
 #postlist p {
     margin-bottom: 50px;
     text-indent: 0px;
-    text-align: center;
+    text-align: left;
     color: #666;
     font-size: 0.8em;
 }
