@@ -2,7 +2,7 @@
     <site-control permitted-cross-domain-policies="master-only"/> 
     <allow-access-from domain="technoboy10.tk"/>
     <allow-access-from domain="technoboy10.github.io"/>
-
+    <allow-access-from domain="scratchx.org"/>
     </cross-domain-policy>
 
 
