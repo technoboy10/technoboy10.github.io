@@ -11,9 +11,7 @@ you don't know where to start. Everyone you ask gives you their own advice.
 
 Here's ours.
 
----
-
-## Which language should I learn?
+### Which language should I learn?
 
 The eternal question. A lot of people define themselves by the programming
 languages they use. People have very strong, emotional opinions about these
@@ -202,14 +200,14 @@ want to say about them.
   verbose---it takes you a *lot* of code to get simple things done. We
   recommend only learning Java if you're writing an Android app, or if you're
   taking the AP Computer Science course (which, for a smart Scratch programmer,
-  is pretty straightforward). 
+  is pretty straightforward).
 > **Should I take AP CS?**
-> 
+>
 > Yes. Take it if you have a free spot in your schedule, because you will
 > probably breeze through the course. Don't stress out too much about it. Use
 > it as an opportunity to make friends with fellow CS students at your school
 > and to get to know the CS teacher there.
-> 
+>
 > If you don't have a free spot, you could probably self-study it, but we see
 > little educational value (it might look good on a college application?). You
 > have better things to do.
@@ -229,6 +227,12 @@ Here are some languages you shouldn't care about:
   all these languages tend to be thinly-veiled JavaScript once you really get
   into them.
 
+- **Blockly, App Inventor, Greenfoot, Alice, LOGO, GameMaker, other teaching
+  languages:** unless you have any particular reason to use one of these
+  languages, you will probably find it too easy: they are designed for
+  beginners, and won't give you the flexibility or "real-world" experience you
+  want.
+
 - **Rust, Go, anything owned by a company**: not because the language has any
   technical flaws, but because of "vendor lock-in": you don't want your code to
   be at the mercy of whatever a private company decides to do with the
@@ -237,16 +241,21 @@ Here are some languages you shouldn't care about:
   person has written a competitive interpreter or compiler for it. This helps
   ensure that the standards are followed.
 
-- **PHP, Perl, and Ruby:** [PHP is not a great
+- **PHP:** [PHP is not a great
   language.](http://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/) The
   only time the authors use PHP these days is when trying to exploit
-  badly-written PHP code in computer security competitions. Perl has
-  essentially been replaced with Python in most places: a good knowledge of the
-  command line and Python are far more useful to you. We haven't seen any new
-  exciting software written in Perl in a while. Ruby resembles Python in many
-  ways as well---many say it's much prettier---but it's known to be slower.
-  It's not as widely-used, but there exist big projects that do (Homebrew and
-  Github are both Ruby-based).
+  badly-written PHP code in computer security competitions.
+
+
+- **Perl, Ruby, Lua:** Perl has essentially been replaced with Python in most
+  places: a good knowledge of the command line and Python are far more useful
+  to you. We haven't seen any new exciting software written in Perl in a while.
+  Ruby also resembles Python in many ways---many say it's much prettier---but
+  it's known to be slower. It's not as widely-used, but there exist big
+  projects that do (Homebrew and Github are both Ruby-based). Same for Lua:
+  it's a nice language (Ruby's syntax meets JavaScript's prototyping OOP), but
+  it isn't used by enough people. Languages like this tend to be harder to find
+  documentation, help, and working examples for.
 
 - **Esoteric languages:** these are written as jokes. You should be creating
   new ones, not programming in existing ones!
@@ -262,9 +271,7 @@ deal).
 
 So we've come a full circle: collect *paradigms*, not *languages*.
 
----
-
-## Tools of the trade
+### Tools of the trade
 
 Programmers in the Real World&trade; are very dependent on their tools. In
 fact, though we don't recommend it, most people define themselves by their
@@ -287,7 +294,7 @@ for Mac/Linux/Windows.
   customizable, with hundreds of themes and packages written by people. Atom is
   notoriously slow, though, because it essentially loads an entire web browser
   for its GUI. Cousins of Atom are **Brackets** by Adobe (just as slow, fewer
-  packages) and **Sublime Text** (faster and prettier). 
+  packages) and **Sublime Text** (faster and prettier).
 > Tip from `technoboy10`: Oodles of packages are available, but don't try to
 > use all of them. Find a few that really improve your coding workflow and use
 > those.
@@ -343,15 +350,13 @@ others (Weechat, IRSSI, IRCCloud, etc). Feel free to say hi to us: we're
 `hardmath123` and `tb10` on Freenode.
 
 **Find (good) documentation**: know about StackOverflow, Github, MDN, etc. We
-won't drone on about these sites. Just know that they exist. 
+won't drone on about these sites. Just know that they exist.
 > Tip from `technoboy10`: Google is a coder's best friend. Everybody has a
 > different way of finding solutions to programming problems, but learning to
 > search and find answers online is an immensely valuable skill. If you're not
 > a fan of Google, I recommend the [DuckDuckGo](http://ddg.gg) search engine.
 
----
-
-## Folklore and Culture: some reading material
+### Folklore and Culture: some reading material
 
 The CS world, like any community, has its own set of traditions. It's said that
 UNIX is more an oral history than an operating system. With that in mind, here
@@ -374,9 +379,7 @@ Don't take any of them seriously.
 - [Telehack](http://telehack.com) (tell `forbin` that `hm` says hi)
 - [*Cryptonomicon*](http://www.goodreads.com/book/show/816.Cryptonomicon)
 
----
-
-## Parting words
+### Parting words
 
 You're about to start on a wonderful journey. Enjoy it. Make friends. Make
 mistakes. These choices are all meaningless; you're smart and you're going to
