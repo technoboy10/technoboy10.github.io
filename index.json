@@ -19,13 +19,20 @@
             "date": "12/20/14",
             "markdown": true
         },
-        
         {
             "title": "Making vs Coding",
             "author": "technoboy10",
             "description": "why I don't actually like coding",
             "file": "make.md",
             "date": "4/5/15",
+            "markdown": true
+        },
+        {
+            "title": "The Seasoned Scratcher",
+            "author": "hardmath123 + technoboy10",
+            "description": "What to learn after Scratch: a definitive guide.",
+            "file": "after-scratch.md",
+            "date": "8/16/15",
             "markdown": true
         }
     ]
