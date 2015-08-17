@@ -1,5 +1,5 @@
-> Your hosts for the evening are `Hardmath123` and
-> [`technoboy10`](http://technoboy10.tk) from Scratch.  Together, we have over
+> Your hosts for the evening are [`Hardmath123`](http://hardmath123.github.io) and
+> `technoboy10` from Scratch.  Together, we have over
 > 13 years of experience with Scratch and the computer science world beyond.
 
 So you think you're a Scratch expert. You know the ins and outs of Scratch like
