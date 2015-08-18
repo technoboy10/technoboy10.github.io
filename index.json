@@ -34,6 +34,14 @@
             "file": "after-scratch.md",
             "date": "8/16/15",
             "markdown": true
+        },
+        {
+            "title": "Creative Communities",
+            "author": "technoboy10",
+            "description": "Foreword to the 2015 Scratch Conference in Amsterdam",
+            "file": "scratch2015.md",
+            "date": "8/18/2015",
+            "markdown": true
         }
     ]
 }
