@@ -13,3 +13,5 @@ I've always disliked the "get a better job" rationale as the sole reason for lea
 Sometimes today's computing culture feels like a battle of designer vs developer - art opposing logic. If anything, CS should bridge the gap between hard logic and creative art. Computers are strictly logical at their core, but as a tool they can be used for unique experiences that are more art than anything else.
 
 See, Scratch has never really been about programming to me. It has always been about programming as a medium for creative expression. Creativity through programming. And not only that, but sharing your experiences with others, for them to build on and improve.
+
+_I don't like coding, I like making._
