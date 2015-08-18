@@ -1,4 +1,4 @@
-> The following was written as a forward to the 2015 Scratch Conference in Amsterdam. It's pretty similar to my post 'Making vs Coding', but I thought I'd post it here anyway. Enjoy!
+> The following was written as a foreword to the 2015 Scratch Conference in Amsterdam. It's pretty similar to my post 'Making vs Coding', but I thought I'd post it here anyway. Enjoy!
 
 I think if I had to narrow down a list of  the most valuable things Scratch has taught me, I could pick two things: creativity and community. On Scratch the two ideas are intrinsically linked.
 
