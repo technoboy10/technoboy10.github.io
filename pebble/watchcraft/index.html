@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Slate Example Configuration</title>
+  <link rel='stylesheet' type='text/css' href='css/slate.min.css'>
+  <script src='js/slate.min.js'></script>
+  <style>
+  .title {
+    padding: 15px 10px;
+    text-transform: uppercase;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #888888;
+    text-align: center;
+  }
+  </style>
+  </head>
+
+  <body>
+    <h1 class='title'>WatchCraft Configuration</h1>
+
+    <div class='item-container'>
+      <div class='item-container-content'>
+        <div class='item'>
+          Configure WatchCraft here.
+        </div>
+      </div>
+    </div>
+
+    <div class="item-container">
+  <div class="item-container-header">Server IP</div>
+  <div class="item-container-content">
+    <label class="item">
+      <div class="item-input-wrapper">
+        <input type="text" class="item-input" id="ip_address" name="input-1"  placeholder="Input field">
+      </div>
+    </label>
+  </div>
+  <div class="item-container-footer">
+    Input the IP address of your computer - the backend server should print this out in the command line.
+  </div>
+</div>
+
+    <div class='item-container'>
+      <div class='button-container'>
+        <input id='submit_button' type='button' class='item-button' value='SUBMIT'>
+      </div>
+    </div>
+  </body>
+  <script>
+  function getConfigData() {
+    var ipAddr = document.getElementById('ip_address');
+
+    var options = {
+      'ip_addr': ipAddr.value,
+    };
+
+    // Save for next launch
+    localStorage['ip_addr'] = options['ip_addr'];
+
+    console.log('Got options: ' + JSON.stringify(options));
+    return options;
+  }
+
+  function getQueryParam(variable, defaultValue) {
+    var query = location.search.substring(1);
+    var vars = query.split('&');
+    for (var i = 0; i < vars.length; i++) {
+      var pair = vars[i].split('=');
+      if (pair[0] === variable) {
+        return decodeURIComponent(pair[1]);
+      }
+    }
+    return defaultValue || false;
+  }
+
+  var submitButton = document.getElementById('submit_button');
+  submitButton.addEventListener('click', function() {
+    console.log('Submit');
+
+    // Set the return URL depending on the runtime environment
+    var return_to = getQueryParam('return_to', 'pebblejs://close#');
+    document.location = return_to + encodeURIComponent(JSON.stringify(getConfigData()));
+  });
+
+  (function() {
+    var ipAddr = document.getElementById('ip_address');
+    // Load any previously saved configuration, if available
+    if(localStorage['ip_addr']) {
+      ipAddr.value = localStorage['ip_addr'];
+    }
+  })();
+  </script>
+</html>
