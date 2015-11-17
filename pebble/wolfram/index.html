@@ -96,8 +96,8 @@
     var vibe_box = document.getElementById('vibe');
     // Load any previously saved configuration, if available
     if(localStorage['confirm']) {
-      confirm_box.checked = localStorage['confirm'];
-      vibe_box.checked = localStorage['vibe'];
+      confirm_box.checked = (localStorage['confirm'] == "true");
+      vibe_box.checked = (localStorage['vibe'] == "true");
     }
   })();
   </script>
