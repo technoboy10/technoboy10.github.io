@@ -51,20 +51,37 @@
         <input id='submit_button' type='button' class='item-button' value='SUBMIT'>
       </div>
     </div>
+
+    <div class="item-container">
+  <div class="item-container-header">Custom API key</div>
+  <div class="item-container-content">
+    <label class="item">
+      <div class="item-input-wrapper">
+        <input type="text" class="item-input" id="custom_appid" placeholder="API Key">
+      </div>
+    </label>
+  </div>
+  <div class="item-container-footer">
+    Input your Wolfram|Alpha API key. (head to <a href="http://products.wolframalpha.com/api">the Wolfram|Alpha site</a> to get one).
+  </div>
+</div>
   </body>
   <script>
   function getConfigData() {
     var confirm_box = document.getElementById('confirm');
     var vibe_box = document.getElementById('vibe');
+    var custom = document.getElementById('custom_appid');
 
     var options = {
       'confirm': confirm_box.checked,
-      'vibe': vibe.checked
+      'vibe': vibe.checked,
+      'custom_appid': custom.value;
     };
 
     // Save for next launch
     localStorage['confirm'] = options['confirm'];
-    localStorage['vibe'] = options['vibe']
+    localStorage['vibe'] = options['vibe'];
+    localStorage['custom_appid'] = options['custom_appid'];
 
     console.log('Got options: ' + JSON.stringify(options));
     return options;
@@ -94,10 +111,12 @@
   (function() {
     var confirm_box = document.getElementById('confirm');
     var vibe_box = document.getElementById('vibe');
+    var custom = document.getElementById('custom_appid');
     // Load any previously saved configuration, if available
     if(localStorage['confirm']) {
       confirm_box.checked = (localStorage['confirm'] == "true");
       vibe_box.checked = (localStorage['vibe'] == "true");
+      custom.value = localStorage['custom_appid'];
     }
   })();
   </script>
