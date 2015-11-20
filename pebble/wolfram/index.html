@@ -60,12 +60,14 @@
   </div>
 </div>
 <div class='item-container'>
-  <div class='button-container'>
-    <input id='submit_button' type='button' class='item-button' value='SUBMIT'>
+    <div class='button-container'>
+      <input id='submit_button' type='button' class='item-button' value='SUBMIT'>
+    </div>
   </div>
-</div>
+
   </body>
   <script>
+
   function getConfigData() {
     var confirm_box = document.getElementById('confirm');
     var vibe_box = document.getElementById('vibe');
@@ -74,7 +76,7 @@
     var options = {
       'confirm': confirm_box.checked,
       'vibe': vibe.checked,
-      'custom_appid': custom.value;
+      'custom_appid': custom.value
     };
 
     // Save for next launch
